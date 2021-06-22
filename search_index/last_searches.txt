@@ -1,0 +1,5 @@
+query=sql&fields=None
+query=sqli&fields=None
+query=winPeas&fields=None
+query=AlwaysInstallElevated&fields=None
+query=msfvenom&fields=None
